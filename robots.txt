@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://igzarden.github.io/sitemap
+Sitemap: https://igzarden.github.io/app/sitemap
+Sitemap: https://igzarden.github.io/assets/sitemap
+Sitemap: https://igzarden.github.io/css/sitemap
+Sitemap: https://igzarden.github.io/includes/sitemap
+Sitemap: https://igzarden.github.io/item/sitemap
+Sitemap: https://igzarden.github.io/src/sitemap
